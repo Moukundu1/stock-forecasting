@@ -172,7 +172,7 @@ stock-forecasting/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-forecasting.git
+git clone https://github.com/Moukundu1/stock-forecasting.git
 cd stock-forecasting
 ```
 
