@@ -1,0 +1,6 @@
+,MAE,RMSE,MAPE (%),R²
+Linear Regression,2.0604,2.6162,1.486,0.9623
+Lasso Regression,2.0958,2.6433,1.5074,0.9615
+Ridge Regression,2.3048,2.8743,1.653,0.9544
+Random Forest,26.8234,29.6696,18.5169,-3.8551
+Gradient Boosting,28.4336,31.3122,19.6517,-4.4076
